@@ -22,6 +22,7 @@ public class ConnectUtils {
             connectUtils.init();
             return connectUtils;
         }
+
         return connectUtils;
     }
 
